@@ -42,4 +42,4 @@ else:
             current_index += 1
 
     print(f"Files have been successfully copied and renamed in the '{destination_folder_name}' folder.")
-    print("test")
+    
